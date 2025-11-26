@@ -123,5 +123,6 @@ Isso garantiu um modelo mais bem ajustado e com menor overfitting.
 
 O ensemble apresentou **melhor desempenho** que os modelos individuais, obtendo um MSE menor e previsões mais estáveis.
 
+Link Google Colab: https://colab.research.google.com/drive/1V3WJ9pNAd18e3LVaTCMvwNQM85dbHhdO?usp=sharing
 
 
